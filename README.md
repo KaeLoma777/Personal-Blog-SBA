@@ -18,7 +18,9 @@ This is a simple task management application built using HTML, CSS, and JavaScri
 
 # The Challenge
 
-Project Screenshot: 
+# Project Screenshot:  
+
+![Blog Page Screenshot](screenshot%202025-05-23%20001429.png)
 
 The goal was to build an interactive personal blog page:
 
